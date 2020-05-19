@@ -17,6 +17,6 @@ ESP8266 dihubungkan dengan MQTT Dash untuk mengontrol Stepper Motor
 
 --------------------------------------------------
 
-Link Tutorial YouTube: [Click Here](https://youtu.be/SbgQbV7IxRo)
+Link Tutorial YouTube: [Click Here](https://youtu.be/xyOx2zeKXFc)
 
 --------------------------------------------------
